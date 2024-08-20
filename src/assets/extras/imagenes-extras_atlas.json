@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "Imagenes-extras_atlas.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 186,
+				"h": 52
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "logo",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 50
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 50
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 100,
+						"h": 50
+					}
+				},
+				{
+					"filename": "luz-dorada",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 48,
+						"h": 48
+					},
+					"frame": {
+						"x": 103,
+						"y": 1,
+						"w": 48,
+						"h": 48
+					}
+				},
+				{
+					"filename": "fuego-blanco",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 153,
+						"y": 1,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "estrella",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 153,
+						"y": 35,
+						"w": 16,
+						"h": 16
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:bab386efda033d469b4ed24afdeb77fe:f4aa1f434c05ebff5285961bc0f41086:d7d1a0802daa23d512ea18552b802e54$"
+	}
+}
